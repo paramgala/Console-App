@@ -30,11 +30,11 @@ Enter your choice (1-6): 2
 --- All Student Records ---
 --------------------------------------------------
 Student ID : S001
-Name       : Jitesh Vishwakarma
-Age        : 20
+Name       : Param Gala
+Age        : 22
 Course     : MCA
-Email      : jitesh@example.com
-Marks      : 85
+Email      : param@example.com
+Marks      : 92
 --------------------------------------------------
 Student ID : S002
 Name       : Prajwal Bhosle
@@ -44,10 +44,10 @@ Email      : prajwal@example.com
 Marks      : 80
 --------------------------------------------------
 Student ID : S003
-Name       : Keshav Sahu
-Age        : 20
-Course     : MCA
-Email      : keshav@example.com
-Marks      : 75
+Name       : Raj Shah
+Age        : 22
+Course     : Law
+Email      : rajs@example.com
+Marks      : 50
 --------------------------------------------------
 Total records: 3
